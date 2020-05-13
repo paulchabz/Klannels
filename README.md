@@ -1,5 +1,5 @@
 
-### `Klannels a Simple Ecommerce`
+### `Klannels a Simple Ecommerce Store`
 A simple Ecommerce store developed with create react app, Redux, Context API, Hooks and other technologies
 
 
