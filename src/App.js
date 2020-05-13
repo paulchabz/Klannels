@@ -4,7 +4,7 @@ import {HomePage} from "./HomePageComponent/HomePageComponent"
 function App() {
   return (
     <div >
-      <h1>Hello World</h1>
+      <h1>Klannels</h1>
       <HomePage />
     </div>
   );
