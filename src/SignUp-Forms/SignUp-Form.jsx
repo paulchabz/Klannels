@@ -3,7 +3,7 @@ import React from "react";
 import { FormInput } from "../Forms/Form-input-component";
 import { CustomButton } from "../Button/Button-styles-component";
 import { auth, createUserProfileDocument } from "../Firebase/Firebase.utils";
-import "./SignUpComponent-styles.scss";
+import "./SignUp-Form.scss";
 
 class SignUp extends React.Component {
     constructor() {
